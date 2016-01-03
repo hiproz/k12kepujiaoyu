@@ -58,8 +58,5 @@ k12科普教育是一个科普公益项目，其目标为通过公众的力量�
 
 # 联系方式
 1. qq群：240805187
-2. 邮件群组：k12kepujiaoyu@googlegroups.com  
-订阅方法：发送空白邮件到地址 k12kepujiaoyu+subscribe@googlegroups.com 即可完成订阅。  
-要取消订阅此群组，请发送电子邮件至 k12kepujiaoyu+unsubscribe@googlegroups.com  
-发贴：在完成订阅之后，直接发送你的讨论邮件到地址 k12kepujiaoyu@googlegroups.com
+2. 
 
