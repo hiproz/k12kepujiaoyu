@@ -54,7 +54,7 @@ k12科普教育是一个科普公益项目，其目标为通过公众的力量�
 * 其他任何能停供资源，资金，知识支持，推广帮助的人。
 
 # 我如何提交资源?
-按照 [资源池.md](https://github.com/hiproz/k12kepujiaoyu/资源池.md)的格式添加就可以了，会有其他的人员评审和更新到最终的分级类别中
+按照 [资源池.md](https://github.com/hiproz/k12kepujiaoyu/blob/master/%E8%B5%84%E6%BA%90%E6%B1%A0.md)的格式添加就可以了，会有其他的人员评审和更新到最终的分级类别中
 
 # 筹款方式
 等确定后我们会公布
@@ -63,3 +63,5 @@ k12科普教育是一个科普公益项目，其目标为通过公众的力量�
 1. qq群：240805187
 2. 
 
+# FAQ
+其他问题请参见[FAQ列表](https://github.com/hiproz/k12kepujiaoyu/blob/master/faq.md)
