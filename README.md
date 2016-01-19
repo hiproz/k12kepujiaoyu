@@ -65,7 +65,6 @@ k12科普教育是一个科普公益项目，其目标为通过公众的力量�
 等确定后我们会公布
 
 # 联系方式
-1. qq群：240805187
 
 # FAQ
 其他问题请参见[FAQ列表](https://github.com/hiproz/k12kepujiaoyu/blob/master/faq.md)
